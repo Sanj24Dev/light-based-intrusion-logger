@@ -3,7 +3,7 @@
 #include <avr/interrupt.h>
 
 int ldrPin = A0;
-int lightThreshold = 50;
+int lightThreshold = 200;    // can be adjusted, kept high for debug purposes
 int btnPin = 2;  
 int buzzerPin = 7;
 
