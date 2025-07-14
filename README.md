@@ -69,7 +69,7 @@ A power-efficient intrusion detection system built on Arduino Uno. The system de
 
 
 ## 🎥 Demo
-Check out the [![demo video](./setup.png)](https://imgur.com/a/980a9Wp) to view the entire video showing how it works. <br>
+Check out the [![demo video](./thumbnail.png)](https://imgur.com/a/980a9Wp) to view the entire video showing how it works. <br>
 
 ## 📝 Future Work
 - Add EEPROM /SD Card logging for non-volatile storage
